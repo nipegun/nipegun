@@ -14,3 +14,4 @@ Me especializo en:
 - Creación de entornos virtuales seguros para laboratorios de pruebas.
 - Puesta en marcha de servicios en Debian GNU/Linux.
 - Automatización de procesos e interconexión de APIs.
+- Puesta en marcha de routers y cortafuegos con OpenWrt.
