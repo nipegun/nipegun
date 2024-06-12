@@ -1,4 +1,9 @@
-Técnico superior ASIR con experiencia en Debian, Proxmox y Bash scripting.
+Técnico superior ASIR con experiencia en:
+
+ - Debian.
+ - Proxmox.
+ - Bash scripting.
+ - OpenWrt.
 
 Frente al teclado desde MS-DOS 6.22.
 
