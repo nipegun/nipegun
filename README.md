@@ -1,5 +1,5 @@
 Técnico superior ASIR. Especialización CETI de ciberseguridad.  
-Campeón CyberLehia 2025.  
+[Campeón de Cyberlehia 2025](https://x.com/tknika/status/1907803503331865084)  
 Frente al teclado desde MS-DOS 6.22.
 
 Experiencia en:
