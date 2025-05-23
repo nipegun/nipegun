@@ -1,5 +1,7 @@
 Técnico superior ASIR. Especialización en ciberseguridad.
+
 Campeón CyberLehia 2025.
+
 Frente al teclado desde MS-DOS 6.22.
 
 Experiencia en:
