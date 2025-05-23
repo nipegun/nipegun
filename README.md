@@ -1,6 +1,6 @@
 Soy:  
 
- - [Técnico superior ASIR](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)  
+ - [Técnico superior de ASIR](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)  
  - [Especialista CETI de ciberseguridad](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)  
  - [Campeón de Cyberlehia 2025](https://x.com/tknika/status/1907803503331865084)  
   
