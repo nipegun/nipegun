@@ -1,4 +1,4 @@
-Técnico superior ASIR. Especialización en ciberseguridad.  
+Técnico superior ASIR. Especialización CETI de ciberseguridad.  
 Campeón CyberLehia 2025.  
 Frente al teclado desde MS-DOS 6.22.
 
