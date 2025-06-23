@@ -32,5 +32,5 @@ Me especializo en:
 </a>
 <br/>
 <a href="https://twitter.com/intent/follow?screen_name=nipegun">
-  <img src="https://img.shields.io/twitter/follow/nipegun?style=for-the-badge&logo=twitter&&labelColor=231333&color=382A47" />
+  <img src="https://img.shields.io/twitter/follow/hacks4geeks?style=for-the-badge&logo=twitter&&labelColor=231333&color=382A47" />
 </a>
