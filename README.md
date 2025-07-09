@@ -7,6 +7,7 @@ Soy:
 Estoy:
 
 - Frente al teclado desde MS-DOS 6.22.
+- Investigando continuamente tecnologías IT de vanguardia.
 - Trabajando en el grupo Cybertix.
 
 Tengo experiencia en:
