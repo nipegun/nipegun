@@ -24,3 +24,4 @@ Me especializo en:
 - Puesta en marcha de servicios en Debian GNU/Linux.
 - Automatización de procesos e interconexión de APIs.
 - Instalación y configuración de routers/cortafuegos con OpenWrt.
+- Creación de honeypots IT y OT a medida.
