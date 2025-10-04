@@ -8,16 +8,8 @@ Estoy:
 
 - Frente al teclado desde MS-DOS 6.22.
 - Investigando continuamente tecnologías IT y OT de vanguardia.
-- Trabajando en el grupo Cybertix.
 
-Tengo experiencia en:
-
-- Debian.
-- Proxmox.
-- Bash scripting.
-- OpenWrt.
-
-Me especializo en:
+En sistemas, me especializo en:
 
 - Migración de infraestructuras funcionales antiguas hacia entornos virtualizados modernos.
 - Desarrollo de sistemas de copias de seguridad personalizados y adaptados a casuísticas únicas.
@@ -25,4 +17,10 @@ Me especializo en:
 - Puesta en marcha de servicios en Debian GNU/Linux.
 - Automatización de procesos e interconexión de APIs.
 - Instalación y configuración de routers/cortafuegos con OpenWrt.
+
+En ciberseguridad, me especializo en:
+
+- GNU/Linux DFIR.
+- GNU/Linux penetration testing.
 - Creación de honeypots IT y OT a medida.
+
