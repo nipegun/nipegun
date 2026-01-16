@@ -1,15 +1,15 @@
-#### Soy:  
+#### Soy
 
  - [Técnico superior de ASIR](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
  - [Especialista CETI de ciberseguridad](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
  - [Campeón de Cyberlehia 2025](https://x.com/tknika/status/1907803503331865084)
   
-#### Estoy:
+#### Estoy
 
 - Frente al teclado desde [MS-DOS 6.22](https://es.wikipedia.org/wiki/MS-DOS)
 - Investigando continuamente tecnologías IT y OT de vanguardia.
 
-En sistemas, me especializo en:
+#### En sistemas, me especializo en
 
 - Migración de infraestructuras funcionales antiguas hacia entornos virtualizados modernos.
 - Desarrollo de sistemas de copias de seguridad personalizados y adaptados a casuísticas únicas.
@@ -18,7 +18,7 @@ En sistemas, me especializo en:
 - Automatización de procesos e interconexión de APIs.
 - Instalación y configuración de routers/cortafuegos con OpenWrt.
 
-En ciberseguridad, me especializo en:
+#### En ciberseguridad, me especializo en
 
 - GNU/Linux DFIR.
 - GNU/Linux penetration testing.
