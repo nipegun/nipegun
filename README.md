@@ -23,11 +23,11 @@
 - GNU/Linux DFIR.
 - GNU/Linux Penetration Testing.
 - Creación de honeypots IT y OT a medida.
-- 
+
 #### Domino con soltura las siguiente tecnologías
 
 - Debian GNU/Linux.
-- Bash scripting.
-- OpenWrt.
-- ProxmoxVE y VirtualBox.
+- [Bash scripting](https://tiswww.case.edu/php/chet/bash/bashtop.html).
+- [OpenWrt](https://openwrt.org/start).
+- [ProxmoxVE]() y [VirtualBox]().
 - LXC, Docker y nspawn.
