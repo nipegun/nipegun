@@ -30,3 +30,8 @@ En ciberseguridad, me especializo en:
     alt="Gráfico de actividad de commits"
   />
 </div>
+<div align="center">
+  <br/>
+  <img src="https://skillicons.dev/icons?i=debian,openwrt,lxc,linux,bash,wordpress,vscode,kali" alt="Tecnologías principales" />
+  <br/>
+</div>
