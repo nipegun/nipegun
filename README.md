@@ -21,5 +21,5 @@
 #### En ciberseguridad, me especializo en
 
 - GNU/Linux DFIR.
-- GNU/Linux penetration testing.
+- GNU/Linux Penetration Testing.
 - Creación de honeypots IT y OT a medida.
