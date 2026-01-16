@@ -24,3 +24,9 @@ En ciberseguridad, me especializo en:
 - GNU/Linux penetration testing.
 - Creación de honeypots IT y OT a medida.
 
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nipegun&theme=tokyo-night&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits"
+    alt="Gráfico de actividad de commits"
+  />
+</div>
