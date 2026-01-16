@@ -25,7 +25,7 @@ En ciberseguridad, me especializo en:
 - Creación de honeypots IT y OT a medida.
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nipegun&theme=tokyo-night&hide_border=true&area=true&custom_title=Ritmo de commits" alt="Gráfico de actividad de commits"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nipegun&theme=tokyo-night&hide_border=true&area=true&custom_title=Commits" alt="Gráfico de actividad de commits"/>
 </div>
 <div align="center">
   <br/>
