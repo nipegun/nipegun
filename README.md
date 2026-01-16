@@ -26,8 +26,8 @@
 
 #### Domino con soltura las siguiente tecnologías
 
-- Debian GNU/Linux.
+- [Debian GNU/Linux](https://www.debian.org/intro/why_debian).
 - [Bash scripting](https://tiswww.case.edu/php/chet/bash/bashtop.html).
 - [OpenWrt](https://openwrt.org/start).
-- [ProxmoxVE]() y [VirtualBox]().
-- LXC, Docker y nspawn.
+- [ProxmoxVE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) y [VirtualBox](https://www.virtualbox.org/).
+- [LXC](https://linuxcontainers.org/lxc/introduction/), [Docker](https://www.docker.com/) y nspawn.
