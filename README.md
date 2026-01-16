@@ -30,4 +30,4 @@
 - [Bash scripting](https://tiswww.case.edu/php/chet/bash/bashtop.html).
 - [OpenWrt](https://openwrt.org/start).
 - [ProxmoxVE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) y [VirtualBox](https://www.virtualbox.org/).
-- [LXC](https://linuxcontainers.org/lxc/introduction/), [Docker](https://www.docker.com/) y nspawn.
+- [LXC](https://linuxcontainers.org/lxc/introduction/), [Docker](https://www.docker.com/) y [nspawn](https://www.freedesktop.org/software/systemd/man/latest/systemd-nspawn.html).
