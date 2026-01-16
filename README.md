@@ -32,6 +32,6 @@ En ciberseguridad, me especializo en:
 </div>
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=debian,openwrt,lxc,linux,bash,wordpress,vscode,kali" alt="Tecnologías principales" />
+  <img src="https://skillicons.dev/icons?i=debian-dark,openwrt,lxc,linux,bash,wordpress,vscode,kali,html,css" alt="Tecnologías principales" />
   <br/>
 </div>
