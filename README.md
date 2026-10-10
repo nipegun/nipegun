@@ -46,6 +46,8 @@ Debian evangelist with research-oriented mindset.
 </td>
 <td valign="top">
 
+Debian evangelist con mentalidad investigadora.
+
 #### Soy
 
  - [Especialista CETI de ciberseguridad](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
