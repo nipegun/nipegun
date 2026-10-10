@@ -46,7 +46,7 @@ Debian evangelist with research-oriented mindset.
 </td>
 <td valign="top">
 
-Debian evangelist con mentalidad investigadora.
+Evangelizador de Debian con mentalidad investigadora.
 
 #### Soy
 
