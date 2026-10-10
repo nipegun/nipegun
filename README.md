@@ -1,13 +1,60 @@
+<table>
+<tr>
+<th width="50%">English</th>
+<th width="50%">Español</th>
+</tr>
+<tr>
+<td valign="top">
+
+#### I am
+
+- [Higher Technician in Network Systems Administration (ASIR)](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
+- [CETI Cybersecurity Specialist](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
+- [Cyberlehia 2025 Champion](https://x.com/tknika/status/1907803503331865084)
+
+</td>
+<td valign="top">
+
 #### Soy
 
- - [Técnico superior de ASIR](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
- - [Especialista CETI de ciberseguridad](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
- - [Campeón de Cyberlehia 2025](https://x.com/tknika/status/1907803503331865084)
-  
+- [Técnico superior de ASIR](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
+- [Especialista CETI de ciberseguridad](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
+- [Campeón de Cyberlehia 2025](https://x.com/tknika/status/1907803503331865084)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### I've been
+
+- At the keyboard since [MS-DOS 6.22](https://en.wikipedia.org/wiki/MS-DOS)
+- Continuously researching cutting-edge IT and OT technologies.
+
+</td>
+<td valign="top">
+
 #### Estoy
 
 - Frente al teclado desde [MS-DOS 6.22](https://es.wikipedia.org/wiki/MS-DOS)
 - Investigando continuamente tecnologías IT y OT de vanguardia.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### In systems, I specialize in
+
+- Migrating legacy working infrastructures to modern virtualized environments.
+- Developing custom backup systems tailored to unique scenarios.
+- Building secure virtual environments for test labs and production systems.
+- Deploying services on Debian GNU/Linux.
+- Process automation and API integration.
+- Installing and configuring routers/firewalls with OpenWrt.
+
+</td>
+<td valign="top">
 
 #### En sistemas, me especializo en
 
@@ -18,16 +65,50 @@
 - Automatización de procesos e interconexión de APIs.
 - Instalación y configuración de routers/cortafuegos con OpenWrt.
 
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### In cybersecurity, I specialize in
+
+- GNU/Linux DFIR.
+- GNU/Linux Penetration Testing.
+- Building custom IT and OT honeypots.
+
+</td>
+<td valign="top">
+
 #### En ciberseguridad, me especializo en
 
 - GNU/Linux DFIR.
 - GNU/Linux Penetration Testing.
 - Creación de honeypots IT y OT a medida.
 
-#### Domino con soltura las siguiente tecnologías
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### I'm proficient in the following technologies
+
+- [Debian GNU/Linux](https://www.debian.org/intro/why_debian).
+- [Bash scripting](https://tiswww.case.edu/php/chet/bash/bashtop.html).
+- [OpenWrt](https://openwrt.org/start).
+- [ProxmoxVE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) and [VirtualBox](https://www.virtualbox.org/).
+- [LXC](https://linuxcontainers.org/lxc/introduction/), [nspawn](https://www.freedesktop.org/software/systemd/man/latest/systemd-nspawn.html), [podman](https://podman.io/) and [Docker](https://www.docker.com/).
+
+</td>
+<td valign="top">
+
+#### Domino con soltura las siguientes tecnologías
 
 - [Debian GNU/Linux](https://www.debian.org/intro/why_debian).
 - [Bash scripting](https://tiswww.case.edu/php/chet/bash/bashtop.html).
 - [OpenWrt](https://openwrt.org/start).
 - [ProxmoxVE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) y [VirtualBox](https://www.virtualbox.org/).
-- [LXC](https://linuxcontainers.org/lxc/introduction/), [nspawn](https://www.freedesktop.org/software/systemd/man/latest/systemd-nspawn.html), [podman](https://podman.io/) y  [Docker](https://www.docker.com/).
+- [LXC](https://linuxcontainers.org/lxc/introduction/), [nspawn](https://www.freedesktop.org/software/systemd/man/latest/systemd-nspawn.html), [podman](https://podman.io/) y [Docker](https://www.docker.com/).
+
+</td>
+</tr>
+</table>
