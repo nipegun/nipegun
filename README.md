@@ -6,6 +6,8 @@
 <tr>
 <td valign="top">
 
+Debian evangelist with research-oriented mindset.
+
 #### I am
 
 - [ECTS IT Cybersecurity Specialist](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
