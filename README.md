@@ -8,8 +8,9 @@
 
 #### I am
 
-- [Higher Technician in Network Systems Administration (ASIR)](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
-- [CETI Cybersecurity Specialist](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
+- [ECTS IT Cybersecurity Specialist](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
+- [ECTS Higher Technician in Computer and Networks Administration](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
+
 - [Cyberlehia 2025 Champion](https://x.com/tknika/status/1907803503331865084)
 
 #### I've been
@@ -45,8 +46,9 @@
 
 #### Soy
 
- - [Técnico superior de ASIR](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
  - [Especialista CETI de ciberseguridad](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
+ - [Técnico superior de ASIR](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
+
  - [Campeón de Cyberlehia 2025](https://x.com/tknika/status/1907803503331865084)
   
 #### Estoy
