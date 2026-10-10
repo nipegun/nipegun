@@ -33,7 +33,7 @@
 - GNU/Linux Penetration Testing.
 - Building custom IT and OT honeypots.
 
-#### I'm proficient in the following technologies
+#### I'm absolut proficient in the following technologies
 
 - [Debian GNU/Linux](https://www.debian.org/intro/why_debian).
 - [Bash scripting](https://tiswww.case.edu/php/chet/bash/bashtop.html).
@@ -71,7 +71,7 @@
 - GNU/Linux Penetration Testing.
 - Creación de honeypots IT y OT a medida.
 
-#### Domino con soltura las siguiente tecnologías
+#### Domino con soltura absolua las siguiente tecnologías
 
 - [Debian GNU/Linux](https://www.debian.org/intro/why_debian).
 - [Bash scripting](https://tiswww.case.edu/php/chet/bash/bashtop.html).
