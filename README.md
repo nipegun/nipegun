@@ -9,7 +9,7 @@
 #### I am
 
 - [ECTS IT Cybersecurity Specialist](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
-- [ECTS Higher Technician in Computer and Networks Administration](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
+- [ECTS Higher Technician in Computer and Networks](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
 
 - [Cyberlehia 2025 Champion](https://x.com/tknika/status/1907803503331865084)
 
