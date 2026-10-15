@@ -10,10 +10,9 @@ Debian evangelist with research-oriented mindset.
 
 #### I am
 
+- [Cyberlehia 2025 Champion](https://x.com/tknika/status/1907803503331865084)
 - [ECTS IT Cybersecurity Specialist](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
 - [ECTS Higher Technician in Computer and Networks](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
-
-- [Cyberlehia 2025 Champion](https://x.com/tknika/status/1907803503331865084)
 
 #### I've been
 
@@ -50,10 +49,9 @@ Evangelizador de Debian con mentalidad investigadora.
 
 #### Soy
 
+ - [Campeón de Cyberlehia 2025](https://x.com/tknika/status/1907803503331865084)
  - [Especialista CETI de ciberseguridad](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
  - [Técnico superior de ASIR](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18355)
-
- - [Campeón de Cyberlehia 2025](https://x.com/tknika/status/1907803503331865084)
   
 #### Estoy
 
